@@ -5,7 +5,7 @@
 
 ## Pyber Analysis Results
 
--	V. Isualize does very well in the urban cities. The Urban cities are responsible for more than half of the company’s total fares. The pie graph shows that 62.7% of the total fares are from the Urban area. In Urban areas the 2,405 total drivers have given 1,625 rides to the people in those cities generating $39,845 in fares. Their average fare is $24.53 cents. 
+-	V. Isualize does very well in the urban cities. The Urban cities are responsible for more than half of the company’s total fares. The pie graph shows that 62.7% of the total fares are from the Urban area. In Urban areas the 2,405 total drivers have given 1,625 rides to the people in those cities generating $39,845 in fares. Their average fare is $24.53 cents. ![This is an image](https://github.com/lilydarby8/PyBer_Analysis/issues/1#issuecomment-1187736484)
 
 -	The Suburban area is also doing well. Considering there are less people than the Urban cities, and things are a bit more spread out they make up 30.5% of total fares. They have less drivers than the total rides. It seems the demand is higher than the driver capacity. In suburban areas the 490 total drivers have given 625 rides to the people in their cities generating $19,356 in total fares. Their average fare is $30.97 cents.
 
