@@ -14,5 +14,7 @@
 
 ## Pyber summary
 V. Isualize does very well in the Urban cities. There are more drivers than there are consumers. I think this helps the ride-sharing thrive compared to the Suburban and Rural areas because the consumers are guaranteed to be picked up because the ratio of consumers to drivers. In the "PyBer Ride-Sharing Data (2019)" graph it shows that the more drivers there are the more rides are given. I suggest that V. Isualize hire more drivers for the Suburban and Rural areas so that they can not only keep up with the demand of people partaking in ride-sharing, but also increase the amount of people who use ride-sharing. ![This is an image](https://github.com/lilydarby8/PyBer_Analysis/issues/1#issue-1308227900)
+
 To address the issue of why some consumers may be opting out of using ride-sharing due to their increased fare and lack of drivers, I suggest a reward program of those who do use ride-sharing. They can get points for referring others to use ride-sharing and accumulate points the more they use ride-sharing. The points will take a certain amount of money from their total fare.
+
 To get drivers to the Suburban and Rural areas quickly I suggest V. Isualize send 100 drivers from the Urban cities a proposition for an increased wage if they travel to the Suburban and Rural areas to help the demand for rides. In doing this, the Suburban and Rural areas will get drivers in no time.
